@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "Roblox Unblock All Chrome Extension",
+  "version": "1.0",
+  "description": "Unblock everyone on setting page immedietly",
+
+  "content_scripts": [
+    {
+      "js": ["script.js"],
+      "matches": [
+        "https://www.roblox.com/*"
+      ]
+    }
+  ]
+}
