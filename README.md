@@ -1,1 +1,1 @@
-# Chrome extension for automatically unblocking ever users in setting
+# Chrome extension for automatically unblocking every players in roblox settings
